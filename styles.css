@@ -1,0 +1,91 @@
+body {
+    background-color: #f4d04e;
+    font-family: "Figtree", sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    height: 100vh;          
+    width: 100vw;
+    
+    
+}
+
+section {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 384px;
+    height: 522px;
+    border-radius: 10px;
+    align-items: right;
+    border: 2px solid #111111;
+    box-shadow: 10px 10px #111111;
+}
+.roundedcorners {
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.topictab {
+    background-color: #f4d04e;
+    width: 82px;
+    height: 29px;
+    text-align: center;
+    margin-left: 26px;
+    border-radius: 4px;
+    color: #111111;
+    font-size: 14px;
+    line-height: 150%;
+    font-weight: bold;
+    border-style: solid;
+    border-color: #111111;
+    gap: 8;
+    margin-top: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    
+}
+.date {
+    margin-left: 26px;
+    color: #111111;
+    font-size: 14px;
+    line-height: 150%;
+    padding-top: 10px;
+}
+.heading {
+    margin-left: 26px;
+    color: #111111;
+    line-height: 150%;
+    font-weight: 800;
+    font-size: 24px;
+}
+.description {
+    margin-left: 26px;
+    color: #6b6b6b;
+    line-height: 150%;
+    font-weight: 500;
+    font-size: 16px; 
+    margin-top: -10px;
+}
+.name {
+    margin-left: 15px;
+    color: #111111;
+    line-height: 150%;
+    font-weight: 800;
+    font-size: 14px;
+    position: relative;
+    bottom: 20px;
+
+    
+}
+.profilepic {
+    align-items: left;
+    margin-left: 26px;
+    position: relative;
+    bottom: 10px;
+
+    
+    
+    
+}
