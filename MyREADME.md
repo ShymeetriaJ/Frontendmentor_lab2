@@ -1,103 +1,71 @@
-# Frontend Mentor - QR code component solution
+# Reflection Question Responses (PerScholus)
+1. How did using Figma designs as references affect your coding process?
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+  Using Figma allowed me to see more of the specifications and details of the project, such as font size and font color.
+  It made things easier because I didn't have to guess.
 
-## Table of contents
+2. What challenges did you encounter when aligning your code with the design specifications?
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  It was difficult trying to get the margins and padding correct. It was difficult to get my flexbox correct for my container. It was very time consuming.
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+3. How can the feedback and community resources on Frontend Mentor help you improve as a develop
 
-### Screenshot
+  There is a community aspect to the website where you can ask questions about projects that you are working on. That is very helpful to a new frontend developer. They also have a discord where you can interact in real time with others who can help you or provide you with feedback about your projects.
 
-![](./screenshot.jpg)
+  # Frontend Mentor - QR code card solution
+  
+  ## Table of contents
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
+  
+  ## Overview
+  
+  You will within the files, my solution to the QR code card challenge from Frontend Mentor.com. 
+  1. Download Starter Files: The challenge includes pre-written HTML and CSS starter code, simulating a real-world project    handoff. Download these files.
+  2. Download Figma Design File: Open the design in Figma to inspect elements as needed.
+  3. Review Documentation: Read through the README.md and style-guide.md files for design details, colors, and fonts.
+  4. Implementation: Open the starter code in VS Code, inspect the Figma file, and start implementing the design.
+  
+  ### The challenge
+  
+  Build out the QR code component to match the design as closely as possible. This simple component will help you practice aligning layout and style with a professional design.
+  Users should be able to:
+  
+  - See hover and focus states for all interactive elements on the page
+  
+  ### Screenshot
+  
+  <img src="My QR solution.png" >
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+  ## My process
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+  I began with creating a container. Then I put all the elements inside of the container. Next, I did my styling in css. Finally, I worked to get all of the placements and spacing correct
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learned that there is more than one way to get to the solution but there is always a more efficient way to code
+that improves the structural work flow and allows others to understand your work.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+I will continue to develop my understanding of media queries and flexbox. I have a general understanding but there is so much more to explore within these topics.
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to acknowlegde Brian S. for helping me gain a better understanding of creating a skelton first. It really helped deepened my understanding and improved my work flow.
